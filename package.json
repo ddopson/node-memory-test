@@ -1,0 +1,19 @@
+{
+  "name": "node_memory_test",
+  "version": "0.0.0",
+  "description": "Tests memory usage of the V8 engine",
+  "main": "test.js",
+  "dependencies": {
+    "underscore.string": "~2.2.0rc"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ddopson/node-memory-test.git"
+  },
+  "author": "Dave Dopson <ddopson@gmail.com>",
+  "license": "MIT"
+}
